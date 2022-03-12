@@ -1,1 +1,2 @@
+Rinkeby Ethereum Testnet 
 Contract_Address = 0x21eEeB4b536d2Db02d1d2a40D8FD45a85A0A2529
